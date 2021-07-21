@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D63124</color>
+    <color name="colorPrimaryDark">#6E0C05</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_bubble_self">#E68780</color>
+    <color name="bg_bubble_cobo">#D8BEBC</color>
+</resources>

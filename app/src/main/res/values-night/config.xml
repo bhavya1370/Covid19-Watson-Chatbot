@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--Watson Assistant service credentials-->
+    <!-- REPLACE `ASSISTANT_ID_HERE` with ID of the Assistant to use -->
+    <string name="assistant_id" translatable="false" tools:ignore="ExtraTranslation">ff47b913-ba98-4f80-bcfe-cdf141757d7b</string>
+
+    <!-- REPLACE `ASSISTANT_API_KEY_HERE` with Watson Assistant service API Key-->
+    <string name="assistant_apikey" translatable="false" tools:ignore="ExtraTranslation">OhsctrEtR__0_vR5PsM8OPbh3E0T1gTyR8xSlbzBdDaW</string>
+
+    <!-- REPLACE the URL with the one provided in the credentials of the service you created-->
+    <string name="assistant_url" translatable="false" tools:ignore="ExtraTranslation">https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/71218852-4197-49cd-b03e-b743406ba8f7</string>
+
+</resources>
